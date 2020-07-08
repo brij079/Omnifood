@@ -15,7 +15,7 @@
 
 html {
     background-color: #fff;
-    color: grey;
+    color: #454545;
     font-family: 'Lato','Arial',sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -38,6 +38,8 @@ section {
 .box {
     padding: 1%;
 }
+
+
 /*-------------------------------------*/
 /*Headings*/
 /*-------------------------------------*/
@@ -81,6 +83,11 @@ h2:after{
     margin: 0 auto;
     margin-top: 20px;
         
+}
+/*-------  Features  ---------*/
+
+.section-features .long-copy {
+    margin-bottom: 30px;
 }
 
 /*-------  Paragraphs  ---------*/
