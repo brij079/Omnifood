@@ -1,4 +1,5 @@
-.steps-box {
+.section-steps {
+    background-color: #f4f4f4 ;
 }
 
 .steps-box:first-child {
@@ -37,6 +38,10 @@
     float: left;
     font-size: 145%;
     margin-right: 25px;
+}
+.btn-app:link,
+.btn-app:visited{
+    border: 1px solid transparent;
 }
 
 .btn-app img {
